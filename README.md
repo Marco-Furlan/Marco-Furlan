@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Marco Furlan!
-- 👀 I'm an Italian student from the Data Science Masters at the University of Padua🟩⬜🟥
+- 👀 I'm Masters at Data Science at the University of Padua🟩⬜🟥
 - 🌍 I did my Internship as a researcher at the University of Strasbourg🟦⬜🟥
-- 🌱 I’m currently studying to finish my Masters and looking for opportunities in the meantime!
+- 💼 I worked to implement AI innovations for the Web Marketing Company [SiteBySite](https://www.sitebysite.it/).
+- 🌱 I’m looking for job opportunities!
 - :key: Take a look at my [projects](https://github.com/Marco-Furlan/Projects)!
-- 📫 How to reach me: write me on [LinkedIn](https://www.linkedin.com/in/marco-furlan-4b4191247/) ! Or email me at marcofurlan99@gmail.com but better on LinkedIn !
+- 📫 How to reach me: write me on [LinkedIn](https://www.linkedin.com/in/marco-furlan-4b4191247/) or email me at [marcofurlan99@gmail.com](marcofurlan99@gmail.com) !
 
 <!---
 Marco-Furlan/Marco-Furlan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
